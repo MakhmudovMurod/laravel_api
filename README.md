@@ -13,4 +13,3 @@ Task description
 6. Search for products by keywords
 7. Removing items
 
-collection of postman requests
